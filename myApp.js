@@ -1,5 +1,8 @@
 require('dotenv').config();
 
+mongoose.connect
+
+mongoose;
 
 let Person;
 
